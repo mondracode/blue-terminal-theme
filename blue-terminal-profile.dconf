@@ -1,0 +1,14 @@
+[/]
+allow-bold=true
+background-color='#131313131313'
+background-transparency-percent=8
+bold-color='#d6d6dbdbe5e5'
+bold-color-same-as-fg=true
+font='SF Mono 14'
+foreground-color='#d6d6dbdbe5e5'
+highlight-background-color='#'
+highlight-colors-set=true
+highlight-foreground-color='#'
+palette=['rgb(51,51,102)', 'rgb(102,102,204)', 'rgb(0,153,204)', 'rgb(51,102,204)', 'rgb(0,102,153)', 'rgb(0,102,255)', 'rgb(102,153,153)', 'rgb(153,204,204)', 'rgb(51,51,153)', 'rgb(153,153,255)', 'rgb(0,204,255)', 'rgb(102,153,255)', 'rgb(0,153,204)', 'rgb(0,153,255)', 'rgb(102,204,204)', 'rgb(204,255,255)']
+use-theme-colors=false
+visible-name='Visiblue'
